@@ -1,0 +1,15 @@
+/Users/cemgencer/Desktop/dot/bin/Debug/net6.0/dot
+/Users/cemgencer/Desktop/dot/bin/Debug/net6.0/dot.deps.json
+/Users/cemgencer/Desktop/dot/bin/Debug/net6.0/dot.runtimeconfig.json
+/Users/cemgencer/Desktop/dot/bin/Debug/net6.0/dot.dll
+/Users/cemgencer/Desktop/dot/bin/Debug/net6.0/ref/dot.dll
+/Users/cemgencer/Desktop/dot/bin/Debug/net6.0/dot.pdb
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.csproj.AssemblyReference.cache
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.AssemblyInfoInputs.cache
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.AssemblyInfo.cs
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.csproj.CoreCompileInputs.cache
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.dll
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/ref/dot.dll
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.pdb
+/Users/cemgencer/Desktop/dot/obj/Debug/net6.0/dot.genruntimeconfig.cache
